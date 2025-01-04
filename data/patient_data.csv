@@ -1,0 +1,11 @@
+id,age,sex,height,weight,smoking,drinking,exercise,sbp,dbp,hdl,ldl,hba1c,hypertension,diabetes,dyslipidemia,bmi,obesity
+1,72,男性,175.2,70.1,なし,時々,週1-2回,142,88,45,115,6.2,TRUE,FALSE,FALSE,22.8,FALSE
+2,58,女性,158.4,55.3,なし,なし,週3回以上,128,82,58,105,5.8,FALSE,FALSE,FALSE,22.0,FALSE
+3,65,男性,168.7,78.2,過去,毎日,なし,138,92,42,145,6.8,TRUE,TRUE,TRUE,27.5,TRUE
+4,61,女性,155.1,48.9,なし,時々,週1-2回,125,78,62,98,5.5,FALSE,FALSE,FALSE,20.3,FALSE
+5,69,男性,172.3,68.5,現在,毎日,なし,145,95,38,152,7.1,TRUE,TRUE,TRUE,23.1,FALSE
+6,63,女性,160.2,61.7,なし,なし,週3回以上,132,84,55,118,6.0,FALSE,FALSE,FALSE,24.1,FALSE
+7,70,男性,169.8,72.4,過去,時々,週1-2回,148,91,41,138,6.7,TRUE,TRUE,FALSE,25.1,TRUE
+8,57,女性,156.9,53.2,なし,時々,週1-2回,122,76,59,102,5.7,FALSE,FALSE,FALSE,21.6,FALSE
+9,66,男性,171.5,75.8,現在,毎日,なし,141,89,40,148,6.9,TRUE,TRUE,TRUE,25.8,TRUE
+10,64,女性,157.8,58.4,なし,なし,週3回以上,130,83,56,112,5.9,FALSE,FALSE,FALSE,23.5,FALSE
