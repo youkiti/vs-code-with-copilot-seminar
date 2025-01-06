@@ -20,16 +20,16 @@
 3. 表示された「Cline」をインストール
 
 ### APIキーの設定
-1. Google AI Studioにアクセス（https://makersuite.google.com/app/apikey）
+1. [Google AI Studio](https://aistudio.google.com/app/apikey)にアクセス
 2. 「APIキーを作成」をクリック
 3. 生成されたAPIキーをメモ帳などにコピー
 4. VS Codeで以下の手順でAPIキーを設定:
-   - `Ctrl+Shift+P`（Macの場合は`Cmd+Shift+P`）を押してコマンドパレットを開く
-   - 「Cline: Set API Key」と入力
+   - 左側のメニュータブに表示されるロボットのようなClineアイコンをクリック
+   - 右上に表示される歯車アイコンをクリック
+   - API providerはGoogle Gemini
    - コピーしたAPIキーを貼り付け
 
 ## 3. Clineの設定
-
 ### 自動承認機能の設定
 CLINEを立ち上げると、下の方に`Auto-approve:>`というメニューが出てくるので、`>`をクリックして設定しましょう
 1. メイン設定
