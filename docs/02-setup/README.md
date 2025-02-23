@@ -190,7 +190,7 @@ VS Codeは、必要な機能を追加できます。
 
 #### R言語を使えるようにする（Rをインストール済みであることが前提です）
 1. 左側のパズルのピースアイコンをクリック
-2. 以下の2つを順番にインストール：
+2. 以下をインストール：
    - 検索窓に「R Extension」→「R R Extension for Visual Studio Code (作成者: REditorSupport)」とあるものを選ぶ →「Install」
 
 #### GitとGitHubを使えるようにする
