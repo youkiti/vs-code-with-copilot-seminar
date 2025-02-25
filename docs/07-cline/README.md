@@ -20,7 +20,7 @@
 2. 検索バーに「Cline」と入力
 3. 表示された「Cline」をインストール
 
-### APIキーの設定
+### APIキーの設定(無料でやりたいとき)
 1. [Google AI Studio](https://aistudio.google.com/app/apikey)にアクセス
 2. 「APIキーを作成」をクリック
 3. 生成されたAPIキーをメモ帳などにコピー
@@ -29,6 +29,13 @@
    - 右上に表示される歯車アイコンをクリック
    - API providerはGoogle Gemini
    - コピーしたAPIキーを貼り付け
+  
+### 有料でも高性能なものを使いたいとき
+1. [Claude API console](https://console.anthropic.com/login?returnTo=%2F%3F)にアクセス
+2. Get API keys
+3. +Create Keyボタンから作成
+4. Freeプランだと不足する場合はクレジットカードを登録して課金
+- APIで送ったデータの学習をされることはありません
 
 ## 3. Clineの設定
 ### 自動承認機能の設定
