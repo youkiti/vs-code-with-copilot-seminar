@@ -29,6 +29,7 @@
    - 右上に表示される歯車アイコンをクリック
    - API providerはGoogle Gemini
    - コピーしたAPIキーを貼り付け
+   - 使用するモデルは、その時点で最新版のpro-expをAct、flash-thinkingをPlanに設定する
 
 ## 3. Clineの設定
 ### 自動承認機能の設定
