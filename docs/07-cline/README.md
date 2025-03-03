@@ -37,6 +37,7 @@
 3. +Create Keyボタンから作成
 4. Freeプランだと不足する場合はクレジットカードを登録して課金
 - APIで送ったデータの学習をされることはありません
+5. Claudeの場合、Planの方ではEnable extended thinkingをオンにして、Budgetは最大にしておきましょう。
 
 ## 3. Clineの設定
 ### 自動承認機能の設定
