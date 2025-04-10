@@ -157,7 +157,7 @@ while (total < 100) {
 ```R
 # URLを指定してダウンロード
 download.file(
-    "https://raw.githubusercontent.com/vscodejp/vs-code-with-copilot-seminar/main/data/patient_data.csv",
+    "https://raw.githubusercontent.com/youkiti/vs-code-with-copilot-seminar/main/data/patient_data.csv",
     "patient_data.csv"
 )
 ```
